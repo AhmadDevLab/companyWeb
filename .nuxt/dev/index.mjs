@@ -2032,7 +2032,7 @@ const _ZzuWEjg3RAZdebbWA931TBYUa10UmCvZbfaC8oHzU = (function(nitro) {
 
 const rootDir = "/Users/apple/WebProjects/company";
 
-const appHead = {"meta":[{"name":"viewport","content":"width=500, initial-scale=1"},{"charset":"utf-16"},{"name":"description","content":"Techor IT Solution & Technology Nuxt Js Template"},{"property":"og:locale","content":"en_US"},{"property":"og:type","content":"website"},{"property":"og:author","content":"DevstarIT"},{"property":"og:site_name","content":"Techor IT Solution & Technology Nuxt Js Template"},{"property":"twitter:card","content":"summary"},{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"}],"link":[],"style":[],"script":[],"noscript":[],"charset":"utf-16","viewport":"width=500, initial-scale=1","title":"Techor IT Solution & Technology Nuxt Js Template","bodyAttrs":{"id":"body","class":"tv-magic-cursor"}};
+const appHead = {"meta":[{"name":"viewport","content":"width=500, initial-scale=1"},{"charset":"utf-16"},{"name":"description","content":"Awesome IT Solution & Technology"},{"property":"og:locale","content":"en_US"},{"property":"og:type","content":"website"},{"property":"og:author","content":"DevstarIT"},{"property":"og:site_name","content":"Awesome IT Solution & Technology"},{"property":"twitter:card","content":"summary"},{"name":"robots","content":"index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"}],"link":[],"style":[],"script":[],"noscript":[],"charset":"utf-16","viewport":"width=500, initial-scale=1","title":"Awesome IT Solution & Technology","bodyAttrs":{"id":"body","class":"tv-magic-cursor"}};
 
 const appRootTag = "div";
 

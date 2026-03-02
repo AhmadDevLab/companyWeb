@@ -1,9 +1,3 @@
-import home1 from "@/assets/img/menu/home-1.jpg";
-import home2 from "@/assets/img/menu/home-2.jpg";
-import home3 from "@/assets/img/menu/home-3.jpg";
-import home4 from "@/assets/img/menu/home-4.jpg";
-import home5 from "@/assets/img/menu/home-5.jpg";
-
 export interface MenuItem {
   title: string;
   link?: string;
@@ -49,6 +43,7 @@ export const headerMenus: MenuItem[] = [
       { title: "Price", link: "/price" },
       { title: "Projects", link: "/project" },
       { title: "Project Details", link: "/project/details" },
+      { title: "Privacy Policy", link: "/privacyPolicy" },
       { title: "Faq", link: "/faq" },
     ],
   },
