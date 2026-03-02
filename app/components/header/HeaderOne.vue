@@ -71,7 +71,7 @@ const { isSticky } = useStickyScroll(250);
             <div class="col-xxl-2 col-xl-2 col-6">
               <div class="tv-header-logo">
                 <NuxtLink to="/"
-                  ><img src="@/assets/img/logo/logo-white.png" alt=""
+                  ><img src="@/assets/img/logo/logo-white4.png" alt=""
                 /></NuxtLink>
               </div>
             </div>

@@ -43,7 +43,7 @@
               <div class="tv-footer-widget tv-footer-col-1">
                 <div class="tv-footer-widget-logo mb-30">
                   <NuxtLink to="/"
-                    ><img src="@/assets/img/logo/logo-white2.png" alt=""
+                    ><img src="@/assets/img/logo/logo-white4.png" alt=""
                   /></NuxtLink>
                 </div>
                 <div class="tv-footer-widget-text">
