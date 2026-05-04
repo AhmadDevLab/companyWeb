@@ -7,69 +7,61 @@
         <div class="col-xl-8 col-lg-10">
           <div class="tv-faq-left">
             <div class="tv-section-title-box">
-              <span class="tv-section-subtitle tv-spltv-text tv-spltv-in-right">
-                Privacy Policy
-              </span>
+              <span class="tv-section-subtitle"> Privacy Policy </span>
 
-              <h4 class="tv-section-title tv-spltv-text tv-spltv-in-right">
-                Your Data, Our Responsibility
-              </h4>
+              <h4 class="tv-section-title">QR Scanner Privacy Policy</h4>
 
-              <!-- Intro -->
               <p class="mt-20">
-                We value your privacy and are committed to protecting your
-                personal information. This Privacy Policy explains how we
-                collect, use, and safeguard your data when you use our services.
+                This Privacy Policy explains how our QR & Barcode Scanner app
+                handles user data.
               </p>
 
-              <!-- Section 1 -->
               <p class="mt-20">
-                <strong>Information We Collect:</strong><br />
-                We may collect personal details such as your name, email
-                address, and usage data. Additionally, we gather technical
-                information like device type, browser, and interaction behavior
-                to improve user experience.
+                <strong>1. Camera Usage:</strong><br />
+                This app uses the device camera only for scanning QR codes and
+                barcodes. The camera is accessed in real-time and no images or
+                videos are stored, saved, or uploaded anywhere.
               </p>
 
-              <!-- Section 2 -->
               <p class="mt-20">
-                <strong>How We Use Your Information:</strong><br />
-                Your data helps us personalize your experience, improve our
-                platform, and provide customer support. We ensure that your
-                information is used responsibly and only for legitimate
-                purposes.
+                <strong>2. Data Collection:</strong><br />
+                We do NOT collect, store, or share any personal data such as
+                name, email, contacts, or location.
               </p>
 
-              <!-- Section 3 -->
               <p class="mt-20">
-                <strong>Data Protection:</strong><br />
-                We implement industry-standard security measures including
-                encryption and secure servers to protect your data from
-                unauthorized access, loss, or misuse.
+                <strong>3. Internet Usage:</strong><br />
+                The app does not require user data to function. If third-party
+                services (such as ads) are added in future updates, they may
+                collect limited anonymous usage data as per their own policies.
               </p>
 
-              <!-- Section 4 -->
               <p class="mt-20">
-                <strong>Third-Party Services:</strong><br />
-                We may use trusted third-party tools for analytics and
-                performance monitoring. These providers follow their own privacy
-                policies and comply with industry standards.
+                <strong>4. Third-Party Services:</strong><br />
+                If we integrate services like Google AdMob or analytics tools in
+                the future, they may collect non-personal data to improve
+                performance and show relevant ads.
               </p>
 
-              <!-- Section 5 -->
               <p class="mt-20">
-                <strong>Your Rights:</strong><br />
-                You have the right to access, update, or delete your personal
-                data. You may also opt out of promotional communications at any
-                time.
+                <strong>5. Data Security:</strong><br />
+                Since no personal data is stored, there is no risk of data
+                leakage from our servers.
               </p>
 
-              <!-- Section 6 -->
               <p class="mt-20">
-                <strong>Updates to This Policy:</strong><br />
-                We may update this Privacy Policy periodically. Any changes will
-                be posted on this page, and continued use of our services means
-                you accept those updates.
+                <strong>6. Children’s Privacy:</strong><br />
+                This app does not knowingly collect data from children under 13.
+              </p>
+
+              <p class="mt-20">
+                <strong>7. Changes to This Policy:</strong><br />
+                We may update this Privacy Policy in the future. Any changes
+                will be reflected on this page.
+              </p>
+
+              <p class="mt-20">
+                If you have any questions, contact us at: your-email@example.com
               </p>
             </div>
           </div>
