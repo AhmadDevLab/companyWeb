@@ -28,6 +28,7 @@ interface _GlobalComponents {
   HeaderThree: typeof import("../../app/components/header/HeaderThree.vue")['default']
   HeaderTwo: typeof import("../../app/components/header/HeaderTwo.vue")['default']
   HeaderNavMenu: typeof import("../../app/components/header/NavMenu.vue")['default']
+  SectionsAboutAppInfo: typeof import("../../app/components/sections/AboutAppInfo.vue")['default']
   SectionsAboutSectionOne: typeof import("../../app/components/sections/AboutSectionOne.vue")['default']
   SectionsAboutSectionThree: typeof import("../../app/components/sections/AboutSectionThree.vue")['default']
   SectionsAboutSectionTwo: typeof import("../../app/components/sections/AboutSectionTwo.vue")['default']
@@ -114,6 +115,7 @@ interface _GlobalComponents {
   LazyHeaderThree: LazyComponent<typeof import("../../app/components/header/HeaderThree.vue")['default']>
   LazyHeaderTwo: LazyComponent<typeof import("../../app/components/header/HeaderTwo.vue")['default']>
   LazyHeaderNavMenu: LazyComponent<typeof import("../../app/components/header/NavMenu.vue")['default']>
+  LazySectionsAboutAppInfo: LazyComponent<typeof import("../../app/components/sections/AboutAppInfo.vue")['default']>
   LazySectionsAboutSectionOne: LazyComponent<typeof import("../../app/components/sections/AboutSectionOne.vue")['default']>
   LazySectionsAboutSectionThree: LazyComponent<typeof import("../../app/components/sections/AboutSectionThree.vue")['default']>
   LazySectionsAboutSectionTwo: LazyComponent<typeof import("../../app/components/sections/AboutSectionTwo.vue")['default']>
